@@ -7,4 +7,5 @@ tags:
 ---
 # Kümmel
 ---
-Familiar: [[Kresse]]
+- Reist mit Familiar: [[Kresse]]
+- Kann den [[Horny-Song]] (Teammitglieder nicht betroffen; evtl. Waka Waka von [[Sharkira]])
