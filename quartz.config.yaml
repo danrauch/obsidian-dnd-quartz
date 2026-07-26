@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: danrauch.github.io/obsidian-dnd
+  baseUrl: danrauch.github.io/obsidian-dnd-quartz
   ignorePatterns:
     - private
     - templates
