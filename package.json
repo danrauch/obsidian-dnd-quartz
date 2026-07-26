@@ -41,6 +41,8 @@
     "@floating-ui/dom": "^1.7.4",
     "@myriaddreamin/rehype-typst": "^0.6.0",
     "@napi-rs/simple-git": "0.1.22",
+    "@quartz-themes/core": "^1.0.2",
+    "@quartz-themes/ttrpg-rathgar-gold": "^1.0.0",
     "ansi-truncate": "^1.4.0",
     "async-mutex": "^0.5.0",
     "chokidar": "^5.0.0",
