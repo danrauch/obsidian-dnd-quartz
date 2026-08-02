@@ -43,6 +43,8 @@ jobs:
         run: npm ci
       - name: Install Quartz plugins
         run: npx quartz plugin install
+      - name: Install Quartz Theme
+        run: npm i @quartz-themes/ttrpg-rathgar-gold
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
