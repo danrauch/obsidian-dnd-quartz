@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: D&D
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -268,7 +268,8 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: ttrpg-rathgar-gold
+      theme: quest-journal
+      mode: light
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
